@@ -4,4 +4,4 @@
 + 211.477-0
 + Luis
 + Alejandro Héctor
-+ VS Code, C++ 20
++ Visual Studio Code, C++ 20
