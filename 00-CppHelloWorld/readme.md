@@ -1,7 +1,7 @@
-### Algoritmos y Estructuras de Datos
+## Algoritmos y Estructuras de Datos
 + K1051
 + 2023
 + 211.477-0
 + Luis
 + Alejandro Héctor
-+ VS Community, C++ 20
++ VS Code, C++ 20
