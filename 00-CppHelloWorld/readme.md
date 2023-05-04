@@ -5,3 +5,4 @@
 + Luis
 + Alejandro Héctor
 + Visual Studio Code; Compilador MSYS2 versión 12.2.0
++ Versión de c++ : c++23
